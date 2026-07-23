@@ -102,13 +102,17 @@
 ## 🏆 Достижения GitHub
 
 <div align="center">
-
-'https://github.com/lazarevdp-gif/teamcraft-landing
-'https://github.com/lazarevdp-gif/DreamTeam
-'https://github.com/lazarevdp-gif/ESG-site 
-'https://lazarevdp-gif.github.io/vibe-coder-portfolio/
-'https://github.com/lazarevdp-gif/nordflow-tasks
-
+---
+https://github.com/lazarevdp-gif/teamcraft-landing
+---
+https://github.com/lazarevdp-gif/DreamTeam
+---
+https://github.com/lazarevdp-gif/ESG-site 
+---
+https://lazarevdp-gif.github.io/vibe-coder-portfolio/
+---
+https://github.com/lazarevdp-gif/nordflow-tasks
+---
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=lazarevdp-gif&theme=radical&no-frame=true&column=7)
 
